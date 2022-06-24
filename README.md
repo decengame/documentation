@@ -17,6 +17,6 @@ The game is endless. Players can access different boards. The cheastest one are 
 
 ## Game characters
 
-Investor
-Godmasters Developers
+Investor, 
+Godmasters Developers, 
 Specialists
