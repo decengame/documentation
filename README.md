@@ -7,7 +7,7 @@ DecedGame stands for Decentralized Educational Game. A play-to-earn game where t
 
 ## How it works
 
-Players are invited to join a board where they navigate thru different EVM compatible blockchains. They start the game with some amount of coins and in each blockchain they can buy a specific crypto asset deployed in this blockchain. They move in other of appearance and the numbers of blockchain they move is based on the latest number of the latest Ethereum block. After the move, if they get in a blockchain that asset already have an owner they neeed to rent or buy it. 
+Players are invited to join a board where they navigate thru different EVM compatible blockchains. They move order is based on who has minted the "First timer" NFT first. The numbers of blockchain they move is based on the latest number of the latest Ethereum block. After the move, if they get in a blockchain that asset already have an owner they neeed to rent or buy it. They start the game with some amount of tokens. Using and in each blockchain they can buy a specific crypto asset deployed in this blockchain. 
 
 Who define the assets, receive the payment for the initial sale and also define assets' initial price are defined by the Godmasters Developers - Core Devs DAO that have built the game node softwares. The assets prices are reajusted up 5% each time some player pays a rent. The rent price is 10% of the asset price.
 
